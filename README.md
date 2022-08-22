@@ -5,7 +5,8 @@ This Framework laptop expansion card will show up on your system as a serial
 device and allow for a non-isolated RS-485 communication up to 115,200 baud
 rate at 5V.
 
-Please note that this card is using automatic transmit control.
+Please note that this card is using automatic transmit control and it is
+fail-safe biased (equivalent to 120Ω termination).
 
 
 ## Pinout
@@ -13,7 +14,7 @@ Please note that this card is using automatic transmit control.
 | # | Ref | Description                                     |
 |--:|-----|-------------------------------------------------|
 | 1 | GND | Ground connection                               |
-| 2 | A   | Negative (Low for logic 1 and high for logic 0) |
+| 2 | A   | Negative (low for logic 1 and high for logic 0) |
 | 3 | B   | Positive (high for logic 1 and low for logic 0) |
 | 4 | NC  | Not connected                                   |
 
