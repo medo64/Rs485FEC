@@ -4,8 +4,7 @@
 |---:|-------------------------------------------|---------|----------------------------|
 |  2 | C 100nF X7R 16V (0805)                    | C1-C2   | 478-5311-1-ND              |
 |  1 | C 470nF X7R 16V (0805)                    | C2      | 1276-1199-1-ND             |
-| †4 | D Zener 6.8V 1W (DO-213AB, LL41)          | D1-D4   | BZT52C6V8-FDICT-ND         |
-| †1 | D TVS SM712                               | D5      | SM712-TPMSCT-ND            |
+|  1 | D TVS SM712                               | D1      | SM712-TPMSCT-ND            |
 |  1 | DS LED (0805)                             | DS1     | 475-1415-1-ND              |
 |  3 | F 200 mA fast (0805)                      | F1-F3   | 507-1811-1-ND              |
 |  1 | J JST XH Vertical (4w)                    | J1      | 455-2249-ND                |
@@ -18,7 +17,6 @@
 |  1 | U SP485EEN (SOIC-8)                       | U2      | 1016-1171-5-ND             |
 |  2 | H Screw M2x3mm                            | -       | -                          |
 
-† Populate either D1-D4 or D5, not both.
 
 #### Board Size
 
