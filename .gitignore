@@ -1,7 +1,7 @@
 syntax: glob
 
-datasheets/**
-dist/**
-research/**
+Hardware/datasheets/**
+Hardware/dist/**
+Hardware/research/**
 
 *.pdf
