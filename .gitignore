@@ -3,6 +3,11 @@ syntax: glob
 Hardware/datasheets/**
 Hardware/dist/**
 Hardware/research/**
+Hardware/src/*-backups
+Hardware/src/fp-info-cache
+Hardware/src/*.kicad_prl
+Hardware/src/*.kicad_*.lck
+Hardware/src/*.gcode
 
 Firmware/src/**/*.err
 Firmware/src/**/*.obj
