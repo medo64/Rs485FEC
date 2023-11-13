@@ -11,10 +11,9 @@
 |  1 | L Ferrite 600R@100Mhz                     | L1      | 240-2390-1-ND              |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)            | Q1      | DMP3099L-13DICT-ND         |
-|  1 | R 130 0.125W (0805)                       | R1      | RMCF0805FT130RCT-ND        |
-|  2 | R 750 0.125W (0805)                       | R2-R3   | RMCF0805FT750RCT-ND        |
-|  3 | R 1K 0.125W (0805)                        | R4-R6   | RMCF0805FT1K00CT-ND        |
-|  1 | R 5.1K 0.125W (0805)                      | R7      | RMCF0805FT5K10CT-ND        |
+|  1 | R 120 0.125W (0805)                       | R1      | RMCF0805FT120RCT-ND        |
+|  3 | R 1K 0.125W (0805)                        | R2-R4   | RMCF0805FT1K00CT-ND        |
+|  1 | R 5.1K 0.125W (0805)                      | R5      | RMCF0805FT5K10CT-ND        |
 |  1 | U FT232R (SSOP-28)                        | U1      | 768-FT232RNL-TUBE-ND       |
 |  1 | U SP485EEN (SOIC-8)                       | U2      | 1016-1171-5-ND             |
 |  2 | H Screw M2x3mm                            | -       | -                          |
@@ -46,14 +45,7 @@
 | Current  | 100 mA |
 
 
-#### Jumpers
+#### Termination
 
-##### 3V3
-
-This jumper has to be bridged for operation in 3.3V. If this jumper is bridged,
-5V jumper MUST NOT be bridged too.
-
-##### 5V
-
-This jumper has to be bridged for operation in 5V. If this jumper is bridged,
-3.3V jumper MUST NOT be bridged too.
+To remove termination, desolder termination resistor on top of the board (marked
+`TERM`).

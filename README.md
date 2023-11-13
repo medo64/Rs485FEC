@@ -4,8 +4,8 @@
 This Framework laptop expansion card will show up on your system as a serial
 device and allow for isolated RS-485 communication up to 3,000,800 baud rate.
 
-Please note that this card is using automatic transmit control and it is
-fail-safe biased (equivalent to 120Ω termination).
+Please note that this card is using automatic transmit control and is 120Ω
+terminated.
 
 
 ## Pinout
