@@ -14,6 +14,7 @@
 |  1 | R 120 0.125W (0805)                       | R1      | RMCF0805FT120RCT-ND        |
 |  3 | R 1K 0.125W (0805)                        | R2-R4   | RMCF0805FT1K00CT-ND        |
 |  1 | R 5.1K 0.125W (0805)                      | R5      | RMCF0805FT5K10CT-ND        |
+|  1 | R 10K 0.125W (0805)                       | R6      | RMCF0805FT10K0CT-ND        |
 |  1 | U FT232R (SSOP-28)                        | U1      | 768-FT232RNL-TUBE-ND       |
 |  1 | U SP485EEN (SOIC-8)                       | U2      | 1016-1171-5-ND             |
 |  2 | H Screw M2x3mm                            | -       | -                          |
