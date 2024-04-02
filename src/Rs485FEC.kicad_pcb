@@ -138,7 +138,7 @@
     (at 32 22)
     (descr "Molex 1054440001")
     (attr smd)
-    (fp_text reference "P1" (at 0 -1.7) (layer "F.SilkS") hide
+    (fp_text reference "J1" (at 0 -1.7) (layer "F.SilkS") hide
         (effects (font (size 0.8 0.6) (thickness 0.15)))
       (tstamp 794b968c-ac2d-489e-81e8-71ea81916789)
     )
@@ -396,7 +396,7 @@
     (at 32 40.8)
     (descr "JST B4B-XH-A [455-B4B-XH-A-ND]")
     (attr through_hole)
-    (fp_text reference "J1" (at 0 2.9) (layer "F.SilkS")
+    (fp_text reference "J2" (at 0 2.9) (layer "F.SilkS")
         (effects (font (size 0.8 0.6) (thickness 0.15) bold))
       (tstamp 2dc07843-62d6-41eb-9a36-c3ff77c69722)
     )

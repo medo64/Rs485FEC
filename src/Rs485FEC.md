@@ -7,9 +7,9 @@
 |  1 | C 4.7uF X5R 16V (0805)                    | C6      | 1276-1244-1-ND             |
 |  1 | D TVS SM712                               | D1      | SM712-TPMSCT-ND            |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
-|  1 | J JST XH Vertical (4w)                    | J1      | 455-B4B-XH-A-ND            |
+|  1 | J USB C, plug, straddle 0.8mm             | J1      | WM12855-ND                 |
+|  1 | J JST XH Vertical (4w)                    | J2      | 455-B4B-XH-A-ND            |
 |  1 | L Ferrite 600R@100Mhz                     | L1      | 240-2390-1-ND              |
-|  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)            | Q1      | DMP3099L-13DICT-ND         |
 |  1 | R 120 0.125W (0805)                       | R1      | RMCF0805FT120RCT-ND        |
 |  3 | R 1K 0.125W (0805)                        | R2-R4   | RMCF0805FT1K00CT-ND        |
