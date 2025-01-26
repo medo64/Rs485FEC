@@ -3139,7 +3139,7 @@
 		(uuid "2feff08f-b251-48b6-b521-fb2e362d0ee6")
 		(at 33.1 32.5 -90)
 		(tags "CAPC2013X140N")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 0 1.6 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -3774,7 +3774,7 @@
 		(uuid "5dd56412-e377-4783-a736-e26362a5b1cd")
 		(at 39.2 27.1 90)
 		(tags "CAPC2013X140N")
-		(property "Reference" "C5"
+		(property "Reference" "C6"
 			(at 0 1.6 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -4718,7 +4718,7 @@
 		(uuid "8c299206-9717-4789-a9d6-cb201118719d")
 		(at 30.9 32.5 -90)
 		(tags "CAPC2013X140N")
-		(property "Reference" "C7"
+		(property "Reference" "C8"
 			(at 0 1.6 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5018,7 +5018,7 @@
 		(uuid "cd5e516a-cf51-4ae1-bd63-673a2bafb9a3")
 		(at 42.2 27.1 90)
 		(tags "CAPC2013X140N")
-		(property "Reference" "C4"
+		(property "Reference" "C5"
 			(at 0 1.6 90)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5636,7 +5636,7 @@
 		(uuid "f5d261d0-483c-4e5a-9b4d-cc0c3a404b9b")
 		(at 33.1 27.1 -90)
 		(tags "CAPC2013X140N")
-		(property "Reference" "C6"
+		(property "Reference" "C7"
 			(at 0 1.6 90)
 			(layer "B.SilkS")
 			(hide yes)
