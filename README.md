@@ -20,7 +20,7 @@ expansion card.
 | 1 | GND | Ground connection                               |
 | 2 | A   | Negative (low for logic 1 and high for logic 0) |
 | 3 | B   | Positive (high for logic 1 and low for logic 0) |
-| 4 | NC  | Not connected                                   |
+| 4 | 5V  | 100 mA power supply                             |
 
 As power consumption is low, wires can be almost any AWG. I would recommend
 using 24 AWG wire 0.25 mm² as they allow for greater compatibility with other
